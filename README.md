@@ -33,7 +33,7 @@ Reach out — we’d love to hear from you!
 
 ## 📬 Contact
 
-🐦 Twitter: [@LoginToBrawl](https://x.com/LoginToBrawl)
+🐦 X: [@LoginToBrawl](https://x.com/LoginToBrawl)
 
 ---
 
