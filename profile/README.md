@@ -12,16 +12,13 @@ We focus on **quality, data accuracy, and user-friendly interfaces**.
 In our work, we use the **official Brawl Stars API**, and we also develop our own analytical and integration modules.
 
 ---
-
 ## 🔒 Projects
 
-Our repositories are currently **private**.  
-We are working on:
+Our repositories are currently private, except for one public project:
 
-- Applications for viewing player and club statistics
+- scidapi-client – client for interaction with Supercell ID api
 
-Although the code is not public yet, we are actively developing our projects and plan to release some of them in the future.
-
+We are actively developing our projects and plan to release more in the future.
 ---
 
 ## 🤝 Collaboration
