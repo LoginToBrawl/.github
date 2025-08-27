@@ -19,6 +19,7 @@ Our repositories are currently private, except for one public project:
 - scidapi-client – client for interaction with Supercell ID api
 
 We are actively developing our projects and plan to release more in the future.
+
 ---
 
 ## 🤝 Collaboration
